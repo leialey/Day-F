@@ -1,19 +1,32 @@
 ## Privacy Policy
 
+### Introduction
 
-Ekaterina Rodionova built the Fitbook app as a Commercial app. This SERVICE is provided by Ekaterina Rodionova and is intended for use as is.
+Ekaterina Rodionova built the Fitbook app to help people to get fit and doesn't use their personal data for any purposes other than directly related to the services provided by Fitbook. I take responsibility regarding the security of customer information and data very seriously. I will be clear and transparent about the information Fitbook is collecting and what I will do with that information or data. 
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Fitbook unless otherwise defined in this Privacy Policy.
-
 ### Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using my Service, I may require you to provide us with certain personally identifiable information. This information can be collected either directly or indirectly - through third party partners or providers. 
+Specifically, we may collect the following categories of personal data:
+- E-mail address;
+- Name;
+- Information about your purchases of products and services from us or our partners;
+- Information about your use of the app;
+- Communications with me or directed to me via letters, emails, calls, and social media; 
 
-The app does not use third party services that may collect information used to identify you.
+### What do we use your personal data for, why, and for how long
+
+Your data may be used for the following purposes:
+- Provide products and services you request: we use the information you give us to perform the services for which you have signed up;
+- Credit or other payment card verification/screening; and payment information for accounting, billing and audit purposes and to detect or prevent any fraudulent activities;
+- Security, health, administrative, crime prevention/detection: we may pass your information to government authorities or enforcement bodies for compliance with legal requirements;
+- Customer service communications: we use your data to manage our relationship with you as our customer and to improve our services and enhance your experience with us;
+- Provide tailored services: we use your data to provide information we believe is of interest to you, prior to, during, and after your interactions with us, and to personalise the services we offer to you, such as special offers.
+When we no longer need your personal data, we will securely delete or destroy it. We will also consider if and how we can minimise over time the personal data that we use, and if we can anonymise your personal data so that it can no longer be associated with you or identify you, in which case we may use that information without further notice to you.
 
 ### Log Data
 
