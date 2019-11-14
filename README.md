@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Ekaterina Rodionova built the Fitbook app to help people to get fit and doesn't use their personal data for any purposes other than directly related to the services provided by Fitbook. I take responsibility regarding the security of customer information and data very seriously. I will be clear and transparent about the information Fitbook is collecting and what I will do with that information or data. 
+Ekaterina Rodionova built the Day F app to help people to get fit and doesn't use their personal data for any purposes other than directly related to the services provided by Day F. I take responsibility regarding the security of customer information and data very seriously. I will be clear and transparent about the information Fitbook is collecting and what I will do with that information or data. 
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -67,40 +67,3 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 ### Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at rdnv007@gmail.com.
-
-
-You can use the [editor on GitHub](https://github.com/leialey/Fitbook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leialey/Fitbook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
