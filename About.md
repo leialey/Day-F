@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Day F
+---
+
 ## About Day F
 
 ### Introduction
