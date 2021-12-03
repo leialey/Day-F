@@ -1,7 +1,3 @@
-layout: page
-title: "About Day F"
-permalink: /about/
-
 ## About Day F
 
 ### Introduction
