@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-url: https://leialey.github.io/Day-F/
+url: "https://leialey.github.io/Day-F/"
 name: Day F
-baseurl: /Day-F/
+baseurl: "/"
+markdown: kramdown
