@@ -3,3 +3,5 @@ url: "https://leialey.github.io/Day-F/"
 name: Day F
 baseurl: "/"
 markdown: GFM
+github:
+  is_project_page: false
