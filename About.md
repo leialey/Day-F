@@ -1,5 +1,5 @@
 ---
-title: About Day F
+title: About the app
 ---
 ### Introduction
 
