@@ -1,5 +1,4 @@
 ---
-layout: page
 title: About Day F
 ---
 ### Introduction
