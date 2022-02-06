@@ -29,6 +29,7 @@ Day F may, at its discretion suspend Customer’s access to or use of the Servic
 - if Customer violates any provision of this Agreement; or
 - to address any emergency security concerns; and
 - Modify the Service
+
 Customer is required to accept all patches, bug fixes and updates in the Service.
 
 ### User-Generated Content
@@ -68,13 +69,13 @@ Our service and advice is no substitute for medical advice, examination or treat
 
 ### User’s Account
 
-To use the Service you must register and open a user account. It is sufficient to open only one user account, even if you wish to use several Services. You can open a user account on our website or via one of our mobile apps. Do not use domain names or web URLs in your user name without the prior written approval from us. We will ask you to accept these Terms of Service and our Privacy Policy during the registration process. After you register, for security reasons we will first send you an email in which we ask you to verify the registration by clicking on the "Confirm account" field. After you have clicked on this field you will be redirected to a website where we will finally confirm your registration. Only then will the registration process be complete. Also you can open a user account by using your Facebook or Google account. The registration process is completed, once you have entered your Facebook account details and confirmed.
+To use all Service's functionalities you must register and open a user account. You can open a user account via our mobile app. By opening an account, you accept these Terms of Service and our Privacy Policy.
 
 ## Conclusion of a Contract
 
-When registering on our website, the contract between you and us is formed after the registration process is fully completed. In case of mobile apps, the formation of the user contract depends on the rules of the app store supplier (Apple, Google...). The contract is generally formed when you click on the "Install" field and enter your password if required in the relevant app store.
+The contract is formed when you tap on the "Install" button and enter your password if required in the App store.
 
-Conclusion of a contract for one off additional services for a fee or for subscriptions
+#### Conclusion of a contract for one off additional services for a fee or for subscriptions
 
 Additional services can be purchased by you either by paying a one-time fee or as part of a subscription. If you purchase the additional service via your mobile app, the contract is formed when you click on the field "Buy now", or a similar field, as part of an in-app purchase and, enter your password if required.
 
@@ -106,7 +107,7 @@ Unfortunately billing for iOS app purchases is processed directly through Apple.
 
 #### iOS Cancellation:
 
-- launch the Settings app
+- Launch the Settings app
 - Click iTunes & App Store
 - Click Apple ID
 - Click View Apple ID
