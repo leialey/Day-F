@@ -15,20 +15,20 @@ Day F will make the subscribed Services available to customer on the Terms of Se
 
 Customer must not, and will not permit others to:
 
-Sell, sub-license, rent, lend or distribute the Service or any intellectual property rights therein or otherwise make the Service available to others
-Use or access the Service in violation of any applicable law or intellectual property right, in a manner that threatens the security or functionality of the Service, or for any purpose or in any manner not expressly permitted in this Agreement modify the Service
-reverse engineer, decompile or disassemble the service
-Use the Service to create, collect, transmit, store, use or process any Customer Data. Means malware or any software intended to damage or alter data. Customer doesn’t have the lawful right to create, collect, transmit, store, use or process, that violates any law, or infringes, violates or otherwise misappropriates the intellectual property or other rights of any 3rd party including any moral right, privacy right or right of publicity.
-remove or obscure any proprietary notices or labels on the Services, including brand, copyright, trademark and patent or patent pending notices
-access or use the Service for the purpose of building a similar or competitive product or service or perform any vulnerability, penetration or similar testing of the Service
+- Sell, sub-license, rent, lend or distribute the Service or any intellectual property rights therein or otherwise make the Service available to others
+- Use or access the Service in violation of any applicable law or intellectual property right, in a manner that threatens the security or functionality of the Service, or for any purpose or in any manner not expressly permitted in this Agreement modify the Service
+- reverse engineer, decompile or disassemble the service
+- Use the Service to create, collect, transmit, store, use or process any Customer Data. Means malware or any software intended to damage or alter data. Customer doesn’t have the lawful right to create, collect, transmit, store, use or process, that violates any law, or infringes, violates or otherwise misappropriates the intellectual property or other rights of any 3rd party including any moral right, privacy right or right of publicity.
+- remove or obscure any proprietary notices or labels on the Services, including brand, copyright, trademark and patent or patent pending notices
+- access or use the Service for the purpose of building a similar or competitive product or service or perform any vulnerability, penetration or similar testing of the Service
 #### Suspension of Access; Scheduled Downtime; Modifications.
 
 Day F may, at its discretion suspend Customer’s access to or use of the Service or any component thereof:
 
-for scheduled maintenance;
-if Customer violates any provision of this Agreement; or
-to address any emergency security concerns; and
-Modify the Service
+- for scheduled maintenance;
+- if Customer violates any provision of this Agreement; or
+- to address any emergency security concerns; and
+- Modify the Service
 Customer is required to accept all patches, bug fixes and updates in the Service.
 
 ### User-Generated Content
@@ -92,17 +92,17 @@ In case of a legitimate reason, we reserve the right to refrain from offering ce
 
 Customer may cancel the paid Service and request a refund of the Fees paid by Customer within 48 hours of signing up for the Service (not guaranted for purchases proceeded by Apple App Store - see "iOS Refund Request"), in which case the subscribed Service will immediately terminate as of the date that we provide such refund.
 
-If customer chooses to cancel the Service, customer must submit a cancellation request via the same method customer used to sign up for the Fitify Services (Google Play, Apple App Store...)
+If customer chooses to cancel the Service, customer must submit a cancellation request via the same method customer used to sign up for the Day F Services (Google Play, Apple App Store...)
 
 #### iOS Refund Request:
 
 Unfortunately billing for iOS app purchases is processed directly through Apple. Due to this fact we cannot issue a refund, so you have to ask Apple for a refund by yourself (following this instructions):
 
-Open Mail app from your Home screen.
-Find email called "Your receipt from Apple"
-Click on the receipt for the purchase your want refunded.
-Tap Report a Problem next to the purchase you want to report. You will be redirected to Apple's problem reports page.
-Enter your Apple ID and password when prompted.
+- Open Mail app from your Home screen.
+- Find email called "Your receipt from Apple"
+- Click on the receipt for the purchase your want refunded.
+- Tap Report a Problem next to the purchase you want to report. You will be redirected to Apple's problem reports page.
+- Enter your Apple ID and password when prompted.
 
 #### iOS Cancellation:
 
