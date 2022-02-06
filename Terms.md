@@ -150,8 +150,7 @@ Any provision of this Agreement found by a tribunal or court of competent jurisd
 
 If there are any questions regarding this Terms of Service, you may contact us using the information below.
 
-Day F
+Day F Support team
 dayf.info@gmail.com
-Ekaterina Rodionova
 
 Last Edited on 2022-02-06
