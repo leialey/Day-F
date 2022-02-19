@@ -24,23 +24,23 @@ We strive to make fitness fun and efficient no matter your age, gender, fitness 
 - In-app fitness test and generated programs;
 - Even more exercises;
 - Exercise stats;
-- Cool-down and warm-up exercises & routines that you can embed in your workouts;
+- Cool-down and warm-up exercises & routines which you can embed in your workouts;
 - Improved UI/UX
 
 ### FAQ
 
 #### Is Day F suitable for beginners?
-We developed the app first of all for experienced users who are looking for new routines, those who might have already tried other fitness apps with predelivered programs and now would like to try something new, including creating and generating their own workouts. Day F doesn't provide detailed explanation of exercise techniques, and videos should be used for reference only - we would expect you to be familiar with most of the exercises and have your own preferred way of executing them. 
+We developed the app first of all for experienced users who are looking for new routines, those who might have already tried other fitness apps with pre-designed programs and now would like to try something new, including creating and generating their own workouts. Day F doesn't provide detailed explanation of exercise techniques, and videos should be used for reference only - we would expect you to be familiar with most of the exercises and have your own preferred way of executing them. 
 Having said that, it's perfectly fine if you are beginner - just make sure you get proper exercise technique explanation from a trusted source and practice them slowly with a proper form (ideally with a fitness professional by your side) before you jump on a high-intensity workout on Day F.
 
-#### Are there predelivered workouts and programs on Day F I can use?
-At this point we are focusing on generating workouts using different algorithms, later on this year we will add generated programs - they won't be much different from predelivered workouts and programs you are used to, except they will be unique and based on your level, goals and preferences.
+#### Are there pre-designed workouts and programs on Day F I can use?
+At this point we are focusing on generating workouts using different algorithms, later on this year we will add generated programs - they won't be much different from pre-designed workouts and programs you are used to, except they will be unique and based on your level, goals and preferences.
 
 #### What sort of workouts I can generate or create?
 Day F focuses on bodyweight crossfit style exercises and workouts, and we are adding new exercises to the database regularly. However, if you would like to do a traditional strength training at the gym, you can create your own exercises and use them in your workouts. We might add other types of exercises at some point, but not any time soon.
 
 #### Does the app track calories?
-No, and it won't be. Calories burned during workout depend on too many factors, and we want to encourage people to move away from calory counting obsession and simply enjoy their workouts and be active as much as possible. 
+No, and it won't be. Calories burned during workout depend on too many factors, and we want to encourage people to move away from calorie counting obsession and simply enjoy their workouts and be active as much as possible. 
 
 #### Left, Right, Alternating, Per Side???
 For single side exercises such as lunges, high knees, side planks etc you can specify exactly how the exercise should be performed: 
